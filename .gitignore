@@ -1,0 +1,87 @@
+# Created by .ignore support plugin (hsz.mobi)
+### android template
+# Created by .ignore support plugin (hsz.mobi)
+### Android template
+### Crated by: @Krizzu
+
+# main gradle stuff
+.gradle/
+build/
+local.properties
+
+# ## intellij folders ##
+
+# cache folder
+.idea/caches
+
+# new words added to dictionary
+.idea/dictionaries
+
+# where .jar files are stored, can be user specific
+.idea/libraries
+
+# AS navigation editor temp files
+.navigation/
+
+# AS captures folder
+captures/
+
+# all proguard files
+Proguard/
+
+# other, custom
+.idea/markdown-navigator
+.idea/compiler.xml
+.idea/deploymentTargetDropDown.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/jarRepositories.xml
+.idea/vcs.xml
+
+
+# ## files ##
+
+# last icon added
+.idea/assetWizardSettings.xml
+
+# contains path to gradle versions, path to modules
+.idea/gradle.xml
+
+# paths to module’s .iml file
+.idea/modules.xml
+.idea/tasks.xml
+
+# navigation editor
+.idea/navEditor.xml
+
+# last position of the cursor, files open - user specific
+.idea/workspace.xml
+.idea/misc.xml
+
+# files for Dalvik / ART
+*.dex
+
+# built app
+*.apk
+*.ap_
+
+# java classes
+*.class
+
+# Keystore files
+#*.jks
+
+# Google APIs or Firebase
+google-services.json
+
+# other, custom
+*.iml
+*.logs
+/.idea/saveactions_settings.xml
+/.idea/.name
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
